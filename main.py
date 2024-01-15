@@ -17,7 +17,7 @@ def get_choice_45_7() -> list:
 fruits = [
         'apple', 
         'banana',
-        'pineapple'
+        'kiwi'
 ]
 
 foods = [
